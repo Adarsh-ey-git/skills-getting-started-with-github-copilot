@@ -39,6 +39,48 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Basketball Team": {
+        "organizer": "Coach Martinez",
+        "description": "Competitive basketball team for intramural and league play",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": ["alex@mergington.edu"]
+    },
+    "Tennis Club": {
+        "organizer": "Ms. Patel",
+        "description": "Learn tennis skills and compete in tournaments",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": ["sarah@mergington.edu", "james@mergington.edu"]
+    },
+    "Art Studio": {
+        "organizer": "Mr. Rodriguez",
+        "description": "Explore various painting, drawing, and sculpture techniques",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": ["lucia@mergington.edu"]
+    },
+    "Music Band": {
+        "organizer": "Ms. Johnson",
+        "description": "Perform in school concerts and events with various instruments",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": ["marcus@mergington.edu", "claire@mergington.edu"]
+    },
+    "Debate Team": {
+        "organizer": "Mr. Williams",
+        "description": "Develop argumentation skills and compete in debate competitions",
+        "schedule": "Mondays and Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["jessica@mergington.edu"]
+    },
+    "Science Club": {
+        "organizer": "Dr. Kumar",
+        "description": "Conduct experiments and explore STEM concepts",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["ryan@mergington.edu", "natalie@mergington.edu"]
     }
 }
 
